@@ -11,19 +11,3 @@ This project is a fully functional two-player chess game built using Python. It 
 - Sound effects and themed visuals  
 - Modular codebase for easy enhancement  
 
-# 📁 Folder Structure  
-SmartChess/
-├── Assets/
-│ ├── images/ # Chess piece images
-│ └── sounds/ # Sound effects for moves and captures
-├── Source/
-│ ├── board.py # Board setup and logic
-│ ├── game.py # Game controller and main loop
-│ ├── move.py # Move validation
-│ ├── piece.py # Piece object and behavior
-│ ├── square.py # Square representation
-│ ├── dragger.py # Drag-and-drop logic
-│ ├── sound.py # Sound effect triggers
-│ ├── theme.py # Themes and styles
-│ ├── config.py / const.py / color.py # Constants and settings
-│ └── main.py # Entry point to launch the game
